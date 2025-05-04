@@ -1,25 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snack\\Desktop\\avaliacao-csharp\\Exercicios\\Exercicios.csproj": {}
+    "C:\\Users\\T-Gamer\\Desktop\\fac\\avaliacao-csharp\\Exercicios\\Exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snack\\Desktop\\avaliacao-csharp\\Exercicios\\Exercicios.csproj": {
+    "C:\\Users\\T-Gamer\\Desktop\\fac\\avaliacao-csharp\\Exercicios\\Exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snack\\Desktop\\avaliacao-csharp\\Exercicios\\Exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\T-Gamer\\Desktop\\fac\\avaliacao-csharp\\Exercicios\\Exercicios.csproj",
         "projectName": "Exercicios",
-        "projectPath": "C:\\Users\\snack\\Desktop\\avaliacao-csharp\\Exercicios\\Exercicios.csproj",
-        "packagesPath": "C:\\Users\\snack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snack\\Desktop\\avaliacao-csharp\\Exercicios\\obj\\",
+        "projectPath": "C:\\Users\\T-Gamer\\Desktop\\fac\\avaliacao-csharp\\Exercicios\\Exercicios.csproj",
+        "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\T-Gamer\\Desktop\\fac\\avaliacao-csharp\\Exercicios\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\DevExpress\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\snack\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\DevExpress\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
